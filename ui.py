@@ -21,7 +21,6 @@ def main():
         with open(temp_pdf_path, "wb") as temp_pdf_file:
             temp_pdf_file.write(pdf_bytes)
 
-        # Use the file path to create the PyPDFLoader instance
         loader = PyPDFLoader(temp_pdf_path)
         #loader=PyPDFLoader(pdf_bytes)
         content=loader.load_and_split()
