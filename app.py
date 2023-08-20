@@ -1,13 +1,13 @@
 import streamlit as st
 import openai
 import os
-# Set your OpenAI API key
+
 
 
 def main1():
-    openai.api_key = "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"
+    openai.api_key = '''YOUR API KEY'''
    
-    # Streamlit app code
+    
     st.header("Explore On Internet")
 
     user_input = st.text_input("Search on Net")
