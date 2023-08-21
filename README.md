@@ -1,6 +1,6 @@
 # DocuSpeak
 DocuSpeak! It's a chatbot that allows users to interact with the content of their uploaded documents using language understanding and generation capabilities. If the document doesn't contain that search information, users can also choose to perform an internet search
-
+Screen Cast (Demo) - https://drive.google.com/file/d/1KQICbkn8zCJuoHsSsFGQQarBtmNxd2Zl/view?pli=1
 Functionality:
 
 Document-Embedded Chatbot:
